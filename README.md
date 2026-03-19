@@ -28,16 +28,12 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 - 🔐 **User-controlled identity**
   - Only the owner can create, update, or delete their identity
-
 - 📦 **Decentralized storage reference**
   - Stores a `data_hash` (e.g., IPFS hash) instead of raw sensitive data
-
 - ⚡ **Fast & low-cost transactions**
   - Built on Stellar's Soroban for efficiency
-
 - 🔄 **Updatable identities**
   - Users can modify their identity anytime
-
 - ❌ **Right to delete**
   - Fully remove identity from contract storage
 
@@ -45,8 +41,9 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ## 🔗 Deployed Smart Contract Link
 
-🔗 https://stellar.expert/explorer/testnet/tx/fcb96846c45243f6ac478d51f11c67450caf03412ca552e792e556abca99a2b2
- 🔗 https://lab.stellar.org/r/testnet/contract/CB2GW5RE5Z4HQDFFQ5OJDEAEXJQ2J66AU5S265Z52PHK7FOVZVSX7TSD
+🔗  https://stellar.expert/explorer/testnet/contract/CB2GW5RE5Z4HQDFFQ5OJDEAEXJQ2J66AU5S265Z52PHK7FOVZVSX7TSD
+🔗  https://stellar.expert/explorer/testnet/tx/fcb96846c45243f6ac478d51f11c67450caf03412ca552e792e556abca99a2b2
+🔗  https://lab.stellar.org/r/testnet/contract/CB2GW5RE5Z4HQDFFQ5OJDEAEXJQ2J66AU5S265Z52PHK7FOVZVSX7TSD
 
 ---
 
@@ -69,5 +66,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ## 👨‍💻 Author
 
-Built as a Web3 project using Soroban smart contracts on Stellar.
+Developed as a Web3 project using Stellar Soroban Smart Contracts, focusing on decentralized identity and user data ownership.
+Krit Giri,
+Mail- kritgiri2006@gmail.com
 
