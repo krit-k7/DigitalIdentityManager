@@ -1,4 +1,4 @@
-# Digital-Identity-Manager
+# 🌐 Digital-Identity-Manager
 A blockchain-based digital identity management system built on Stellar Soroban for secure, decentralized identity storage and verification.
 
 <img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/64ef260d-a571-4b5d-a4f3-037e5c5d1cfa" />
