@@ -72,8 +72,6 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 Developed as a Web3 project using Stellar Soroban Smart Contracts, focusing on decentralized identity and user data ownership.
 
-Krit Giri,
-
 Mail- kritgiri2006@gmail.com
 
 
