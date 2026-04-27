@@ -51,7 +51,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:-
 
 - Soroban SDK (Rust)
 - Stellar Blockchain
