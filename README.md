@@ -24,7 +24,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:-
 
 - 🔐 **User-controlled identity**
   - Only the owner can create, update, or delete their identity
