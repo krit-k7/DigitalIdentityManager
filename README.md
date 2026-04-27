@@ -39,7 +39,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ---
 
-## 🔗 Deployed Smart Contract Link
+## 🔗 Deployed Smart Contract Link:-
 
 🔗  https://stellar.expert/explorer/testnet/contract/CB2GW5RE5Z4HQDFFQ5OJDEAEXJQ2J66AU5S265Z52PHK7FOVZVSX7TSD
 
