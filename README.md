@@ -12,7 +12,7 @@ Digital Identity Manager is a decentralized application built on the Stellar Sor
 
 ---
 
-## ⚙️ What it does
+## ⚙️ What it does:-
 This smart contract enables users to:
 - Create their digital identity
 - Store essential identity details (name, email, data reference)
