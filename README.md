@@ -3,7 +3,8 @@ A blockchain-based digital identity management system built on Stellar Soroban f
 
 <img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/64ef260d-a571-4b5d-a4f3-037e5c5d1cfa" />
 
-<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/e1c9c2a0-5279-4cf2-81ff-97e8c24f041b" />
+<img width="1692" height="762" alt="image" src="https://github.com/user-attachments/assets/5188dba8-66b0-4b78-a156-77cc903e1666" />
+
 
 # 🌐 Digital Identity Manager (Soroban Smart Contract)
 
